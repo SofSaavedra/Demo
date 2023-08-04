@@ -1,0 +1,24 @@
+h1 {
+	font-family: 'Chivo', sans-serif;
+	color: orange;
+	font-size: 60px;
+	text-align: center;
+}
+h2 {font-family: 'Montserrat', sans-serif;
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+h3 {font-family: 'Raleway', sans-serif;
+    color: red;
+    font-size: 15px;
+    text-align: center;
+
+}
+.foto {
+    width:100px;
+    height:100px;
+    margin: 35px;
+    image-rendering: center
+
+}
